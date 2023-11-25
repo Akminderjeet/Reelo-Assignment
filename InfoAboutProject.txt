@@ -1,0 +1,6 @@
+To Execute this project one should first cd frontend -> npm install -> npm start;
+now cd Server -> npm install -> node index.js
+
+In this problem I used modified Subset Sum Problem to generate a Question Paper 
+The assumption made here is that the questions may of any marks. e.g. easy questions can be of 1 mark , 2 mark, 10 mark etc. 
+that gave me a lead to use subset Sum Algorithm . 
