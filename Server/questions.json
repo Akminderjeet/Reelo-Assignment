@@ -1,0 +1,190 @@
+{
+    "easy": [
+        {
+            "question": "Hi this is my first Question",
+            "subject": "Maths",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": "2"
+        },
+        {
+            "question": "Hi this is my f2nd Question",
+            "subject": "Chemistry",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": "5"
+        },
+        {
+            "question": "Hi this is my 3rd Question",
+            "subject": "science",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 4th Question",
+            "subject": "science",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": "20"
+        },
+        {
+            "question": "Hi this is my 5th Question",
+            "subject": "science",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": "20"
+        },
+        {
+            "question": "Hi this is my 6th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": "2"
+        },
+        {
+            "question": "Hi this is my 7th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": "2"
+        }
+    ],
+    "medium": [
+        {
+            "question": "Hi this is my 15th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 16th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 17th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "5"
+        },
+        {
+            "question": "Hi this is my 18th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "5"
+        },
+        {
+            "question": "Hi this is my 19th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "5"
+        },
+        {
+            "question": "Hi this is my 20th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "5"
+        },
+        {
+            "question": "Hi this is my 30th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "5"
+        },
+        {
+            "question": "Hi this is my 31th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "5"
+        },
+        {
+            "question": "Hi this is my 32th Question",
+            "subject": "Biology",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 33th Question",
+            "subject": "Biology",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 33th Question",
+            "subject": "Biology",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 34th Question",
+            "subject": "Biology",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": "10"
+        }
+    ],
+    "hard": [
+        {
+            "question": "Hi this is my 8th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 9th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 10th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": "10"
+        },
+        {
+            "question": "Hi this is my 11th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": "30"
+        },
+        {
+            "question": "Hi this is my 12th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": "20"
+        },
+        {
+            "question": "Hi this is my 13th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": "20"
+        },
+        {
+            "question": "Hi this is my 14th Question",
+            "subject": "physics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": "20"
+        }
+    ]
+}
